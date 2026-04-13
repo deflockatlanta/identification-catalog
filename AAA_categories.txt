@@ -1,0 +1,15 @@
+(incomplete)
+
+Sound
+  - Gunshot detectors
+Photo
+  - ALPR
+  - Facial recognition
+  - traffic control
+RF
+  - signaltrace et al
+Mobile
+  - Trailers
+  - Cones
+Infrastructure
+  - Cellular

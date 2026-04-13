@@ -1,0 +1,18 @@
+{
+  "name":"Flock Condor",
+  "tags":{
+    "man_made"="surveillance",
+    "surveillance:type"="camera",
+    "surveillance"="public",
+    "camera:type"="dome",
+    "surveillance:zone"="traffic",
+    "manufacturer"="Flock Safety",
+    "manufacturer:wikidata"="Q108485435",
+    "camera:model"="Condor",
+    "camera:mount"="",
+    "electricity"=""
+  },
+  "submittable":true,
+  "requiresDirection":true,
+  "fov":360
+}

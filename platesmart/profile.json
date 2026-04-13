@@ -1,0 +1,17 @@
+{
+  "name":"PlateSmart",
+  "tags":{
+    "man_made"="surveillance",
+    "surveillance:type"="ALPR",
+    "surveillance"="public",
+    "camera:type"="fixed",
+    "surveillance:zone"="traffic",
+    "manufacturer"="PlateSmart",
+    "manufacturer:wikidata"="Q17108016"
+    "camera:mount"="",
+    "electricity"=""
+  },
+  "submittable":true,
+  "requiresDirection":true,
+  "fov":null
+}

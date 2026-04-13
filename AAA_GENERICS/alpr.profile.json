@@ -1,0 +1,15 @@
+{
+  "name":"Generic/Unknown ALPR",
+  "tags":{
+    "man_made"="surveillance",
+    "surveillance:type"="ALPR",
+    "surveillance"="public",
+    "camera:type"="fixed",
+    "surveillance:zone"="traffic",
+    "camera:mount"="",
+    "electricity"=""
+  },
+  "submittable":true,
+  "requiresDirection":true,
+  "fov":null
+}
